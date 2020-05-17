@@ -1,0 +1,1 @@
+This is a simple practice site for getting back into the groove of using git and making sites.
